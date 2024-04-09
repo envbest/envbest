@@ -595,9 +595,14 @@ input.search-form:hover {
     padding-bottom: 70px;
 }
 
+#recent-works .center {
+    padding-bottom: 15px;
+}
+
 .recent-work-wrap {
     position: relative;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 
 .recent-work-wrap img {
